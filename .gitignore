@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+data/araneum_upos_skipgram_300_2_2018.vec.gz
+course_plan.txt
