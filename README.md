@@ -19,4 +19,4 @@
 
 [Лекция 4, пара 2](https://github.com/klyshinsky/NLP_VVSU_2025/blob/main/Lecture_8_W2V_Bert.ipynb) - Векторизация текстов при помощи нейросетевых моделей.
 
-[Лекция 5, пара 1](https://github.com/klyshinsky/NLP_VVSU_2025/blob/main/Lecture_9_Ensemble.ipynb) - Ансамблевые методы классификации.
+[Лекция 5, пара 1](https://github.com/klyshinsky/NLP_VVSU_2025/blob/main/Lecture_9_Ensamble.ipynb) - Ансамблевые методы классификации.
